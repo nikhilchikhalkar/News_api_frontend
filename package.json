@@ -1,6 +1,6 @@
 {
   "name": "news-app",
-  "proxy": "http://localhost:5000",
+  "proxy": "https://cors-anywhere.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
